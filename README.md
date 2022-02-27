@@ -44,10 +44,6 @@ The website will be Ad-free.
 </p>
 
 ---
-Video link/embed
-
-
-- https://www.loom.com/share/26686c899a0d4b4fb318720a4cf0dd3b
 
 
 # Getting Started with Create React App
