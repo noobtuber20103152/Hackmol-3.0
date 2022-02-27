@@ -33,8 +33,10 @@ The website will be Ad-free.
 ---
 ### Images
 
-![image](https://drive.google.com/file/d/19XO3Z8qdqyHyq96G1H1l2GXwm5ARKtRx/view?usp=sharing)
-
+<p align="center">
+  <img src="Home.png" width="350" title="hover text">
+  <img src="Home.png" width="350" alt="accessibility text">
+</p>
 ![image](https://drive.google.com/file/d/1YbvC__yBgHTHJzp5aLgAt8OzrePowXXz/view?usp=sharing)
 
 ![image](https://drive.google.com/file/d/1cnY7jzD53A1RNjJR9t3LBqkEeJ-VW7kA/view?usp=sharing)
