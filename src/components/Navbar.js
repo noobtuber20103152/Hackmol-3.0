@@ -6,7 +6,7 @@ function Navbar() {
             <div class="navbar">
                 <div class="navbar-container">
                     <div class="logo-container">
-                        <h1 class="logo">flakes</h1>
+                        <h1 class="logo">Animites</h1>
                     </div>
                     <div class="menu-container">
                         <ul class="menu-list">
