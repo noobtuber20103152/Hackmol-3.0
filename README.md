@@ -1,5 +1,5 @@
 # Team DAASU 
-## Idea - 
+## Idea - User friendly anime website with live streaming and live chat.
 
 Tech Stack used is 
 - HTML
@@ -33,9 +33,11 @@ The website will be Ad-free.
 ---
 ### Images
 
-![image](https://user-images.githubusercontent.com/64721638/155871181-92f700d8-f0d5-4ea6-9f23-ad991d4d82f3.png)
+![image](https://drive.google.com/file/d/19XO3Z8qdqyHyq96G1H1l2GXwm5ARKtRx/view?usp=sharing)
 
-![image](https://user-images.githubusercontent.com/64721638/155871198-1f3fba16-d0f0-4acb-9e7d-bcc832cdf52e.png)
+![image](https://drive.google.com/file/d/1YbvC__yBgHTHJzp5aLgAt8OzrePowXXz/view?usp=sharing)
+
+![image](https://drive.google.com/file/d/1cnY7jzD53A1RNjJR9t3LBqkEeJ-VW7kA/view?usp=sharing)
 
 ---
 Video link/embed
