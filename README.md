@@ -34,12 +34,14 @@ The website will be Ad-free.
 ### Images
 
 <p align="center">
-  <img src="Home.png" width="350" title="hover text">
-  <img src="Home.png" width="350" alt="accessibility text">
+  <img src="Home.png" width="350" title="Home.png">
 </p>
-![image](https://drive.google.com/file/d/1YbvC__yBgHTHJzp5aLgAt8OzrePowXXz/view?usp=sharing)
-
-![image](https://drive.google.com/file/d/1cnY7jzD53A1RNjJR9t3LBqkEeJ-VW7kA/view?usp=sharing)
+<p align="center">
+  <img src="Live.png" width="350" title="Live.png">
+</p>
+<p align="center">
+  <img src="Component.png" width="350" title="Component.png">
+</p>
 
 ---
 Video link/embed
