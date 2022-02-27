@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live chat</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<script>
+    window.addEventListener('load', () => {
+        let container = document.getElementById('container')
+        let total_Seconds = parseInt(new Date().getHours() * 60 * 60 + new Date().getMinutes() * 60 + new Date().getSeconds());
+        console.log(total_Seconds)
+        let vid_duration = 150;
+        let x = parseInt(total_Seconds) % parseInt(vid_duration);
+        console.log(x);
+        container.innerHTML = `   <video onloadstart="this.volume=0.04" id="video" muted autoplay>
+            <source src="One Piece.mp4#t=`+ x + `,150" class="source" id="source" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>`
+    })
+    function changevolume() {
+        let vid = document.getElementById("video");
+        console.log(vid)
+        vid.muted = !vid.muted;
+    }
+</script>
+
+<body>
+
+    <div style="width: 100%; height: 70vh; position: sticky; top:0;" id="container" class="container">
+
+        <!-- <button style="margin-left: 10px;" onclick="live()">Live</button> -->
+    </div>
+    <button style="margin-left: 10px;" onclick="changevolume()">volume</button>
+    <section class="chat__section">
+        <div class="message__area"></div>
+        <div>
+            <textarea id="textarea" cols="30" rows="1" placeholder="Write a message..."></textarea>
+        </div>
+    </section>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/client.js"></script>
+</body>
+
+</html>
