@@ -1,3 +1,49 @@
+# Team DAASU 
+## Idea - 
+
+Tech Stack used is 
+- HTML
+- CSS
+- JavaScript
+- React
+- Node JS
+- MongoDB
+- Express JS
+- Socket.io
+- Bootstrap
+
+---
+ Team details
+- Team Code : 1a3123ab6e
+- Team Name : DAASU
+- IsFresher: False
+
+---
+### Description of Idea
+
+
+ ### Problem :
+ Anime Websites on internet have interfaces and aren’t very user friendly. Also there is no anime website where people can watch together anime without actually knowing each other. Therefore there is a need for the anime community to have such a website where people can together see and enjoy  Amazing anime . 
+ ### Idea: 
+A website with simple and user friendly UI. The website will give user the option to stream anime which can be seen by people worldwide. A live chat option will also be available so that the anime lovers can express and share their feelings in words.
+The website will be Ad-free.
+
+
+
+---
+### Images
+
+![image](https://user-images.githubusercontent.com/64721638/155871181-92f700d8-f0d5-4ea6-9f23-ad991d4d82f3.png)
+
+![image](https://user-images.githubusercontent.com/64721638/155871198-1f3fba16-d0f0-4acb-9e7d-bcc832cdf52e.png)
+
+---
+Video link/embed
+
+
+- https://www.loom.com/share/26686c899a0d4b4fb318720a4cf0dd3b
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
