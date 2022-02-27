@@ -34,13 +34,13 @@ The website will be Ad-free.
 ### Images
 
 <p align="center">
-  <img src="Home.png" width="350" title="Home.png">
+  <img src="Home.png" width="500" title="Home.png">
 </p>
 <p align="center">
-  <img src="Live.png" width="350" title="Live.png">
+  <img src="Live.png" width="500" title="Live.png">
 </p>
 <p align="center">
-  <img src="Component.png" width="350" title="Component.png">
+  <img src="Comment.png" width="500" title="Component.png">
 </p>
 
 ---
